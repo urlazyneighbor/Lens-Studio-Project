@@ -1,0 +1,4458 @@
+{
+    "lens_id": "",
+    "document_id": "E23lt7S-TqMSP1ojRZ4e",
+    "original_document_id": "5imIVBK8fGQUjjxP7J66",
+    "version": "29",
+    "lastChanged": "1654051403439",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "19",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "19",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "2D Objects Template [REMOVE_ME]"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Ear"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Ear",
+                        "ear_bear"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Ear",
+                        "ear_fox"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Ear",
+                        "ear_kitty"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Ear",
+                        "ear_purple_long"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Ear",
+                        "ear_wolf"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Extras"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Extras",
+                        "extra_antlers"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Extras",
+                        "extra_whiskers_black"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Extras",
+                        "extra_whiskers_colored"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Extras",
+                        "extra_whiskers_white"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Headband"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Headband",
+                        "headband_clown"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Headband",
+                        "headband_dots"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Headband",
+                        "headband_half"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Headband",
+                        "headband_kitty"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Headband",
+                        "headband_worm"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Nose"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Nose",
+                        "nose_clown"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Nose",
+                        "nose_deer"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Nose",
+                        "nose_dog"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Nose",
+                        "nose_heart"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Nose",
+                        "nose_pig"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Nose",
+                        "nose_simple"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Sunglasses"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Sunglasses",
+                        "eagle_lens"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Sunglasses",
+                        "eagle_lens_2"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Sunglasses",
+                        "heart_lens"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Sunglasses",
+                        "heart_sunglasses"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Sunglasses",
+                        "kitty_lens"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Sunglasses",
+                        "kitty_sunglasses"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Sunglasses",
+                        "pink_lens"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Sunglasses",
+                        "pink_sunglasses"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Sunglasses",
+                        "round_lenses"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Sunglasses",
+                        "round_sunglasses"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Sunglasses",
+                        "star_lens"
+                    ],
+                    [
+                        "2D Objects Template [REMOVE_ME]",
+                        "Sunglasses",
+                        "star_sunglasses"
+                    ],
+                    [
+                        "Celebrating Real Estate Sticker by TW_MK"
+                    ],
+                    [
+                        "Confetti Sparkles Sticker by America's Got Talent"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Bird"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Bird",
+                        "bird_lips_1"
+                    ],
+                    [
+                        "Face Paint Template [REMOVE_ME]",
+                        "Bird",
+                        "bird_lips_2"
+                    ],
+                    [
+                        "Party Celebrate Sticker by Originals"
+                    ],
+                    [
+                        "beret"
+                    ],
+                    [
+                        "pancasila"
+                    ],
+                    [
+                        "pancasilabornn"
+                    ],
+                    [
+                        "pita"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1653943203167945:54796",
+                    "1653972618939444:112649"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "pancasila",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 6.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Smile Person 4.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "MapUiComponent": {
+            "mapPinPoints": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1653943190854643:51486",
+                    "name": "Files\/File8.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1653943190925969:51504",
+                    "name": "Files\/File11.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1653943190984517:51516",
+                    "name": "Files\/File14.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1653943191043725:51532",
+                    "name": "Files\/File17.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1653943191099568:51548",
+                    "name": "Files\/File20.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1653943191165459:51568",
+                    "name": "Files\/File23.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1653943191243954:51580",
+                    "name": "Files\/File26.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1653943191329046:51600",
+                    "name": "Files\/File29.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1653943191413300:51612",
+                    "name": "Files\/File32.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1653943191490513:51632",
+                    "name": "Files\/File35.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1653943191562541:51644",
+                    "name": "Files\/File38.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1653943191635575:51660",
+                    "name": "Files\/File41.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1653943191708276:51676",
+                    "name": "Files\/File44.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1653943191785816:51696",
+                    "name": "Files\/File47.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1653943191864195:51712",
+                    "name": "Files\/File50.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1653943191936109:51728",
+                    "name": "Files\/File53.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1653943191999648:51744",
+                    "name": "Files\/File56.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1653943192063745:51760",
+                    "name": "Files\/File59.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1653943192135028:51776",
+                    "name": "Files\/File62.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1653943192206187:51792",
+                    "name": "Files\/File65.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1653943192273124:51808",
+                    "name": "Files\/File68.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1653943192337612:51824",
+                    "name": "Files\/File71.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1653943192403066:51840",
+                    "name": "Files\/File74.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1653943192469251:51856",
+                    "name": "Files\/File77.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1653943192543828:51876",
+                    "name": "Files\/File80.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1653943192612368:51892",
+                    "name": "Files\/File83.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1653943192683533:51908",
+                    "name": "Files\/File86.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1653943192761411:51928",
+                    "name": "Files\/File89.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1653943192835978:51948",
+                    "name": "Files\/File92.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1653943192905397:51964",
+                    "name": "Files\/File95.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1653943192976651:51980",
+                    "name": "Files\/File98.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1653943193050852:51996",
+                    "name": "Files\/File101.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1653943193135620:52020",
+                    "name": "Files\/File104.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1653943202862268:54744",
+                    "name": "Files\/File107.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1653943202979926:54764",
+                    "name": "Files\/File110.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1653943203095506:54780",
+                    "name": "Files\/File113.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1653971982661723:30162",
+                    "name": "Files\/File152",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1653972580412504:106718",
+                    "name": "Files\/File156.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1653975317339307:18824",
+                    "name": "Files\/File160",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "52",
+                    "uid": "1653975416716929:40314",
+                    "name": "Files\/File164",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1654047353369891:13949",
+                    "name": "Files\/File166.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1653972618942375:112651",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1653972618981137:112806",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1653975416754530:40329",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1653975416789908:40484",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1654047365143815:16875",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1654050576271924:407885",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1653943193193191:52032",
+                "4": "1653943193207837:52053",
+                "5": "1653943193208986:52055",
+                "6": "1653943193209728:52057",
+                "7": "1653943203167945:54796",
+                "8": "1653943203169854:54798",
+                "9": "1653943203190189:54805",
+                "10": "1653943203209878:54816",
+                "11": "1653943220938765:58583",
+                "12": "1653971982833048:30191",
+                "13": "1653972618939444:112649",
+                "14": "1653972618980875:112805",
+                "15": "1653975416753345:40327",
+                "16": "1653975416789518:40483",
+                "17": "1654047365141392:16873",
+                "18": "1654050576270134:407884"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.pvr"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.pvr"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.png"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.png"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.pvr"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.pvr"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.png"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.png"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.pvr"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.png"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.pvr"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.png"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.png"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.pvr"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.png"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.pvr"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.png"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.png"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.pvr"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.png"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.png"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.pvr"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.png"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.png"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.pvr"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.png"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.png"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.pvr"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.png"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.png"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.pvr"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.png"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.png"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.pvr"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.png"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.png"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.pvr"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.png"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.png"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.pvr"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.png"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.png"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.pvr"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.png"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.png"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.pvr"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.png"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.png"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.pvr"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.png"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.png"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.pvr"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.png"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.png"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.pvr"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.png"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.png"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.pvr"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.png"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.png"
+                },
+                {
+                    "k": "74",
+                    "v": "Files\/File74.pvr"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.png"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.png"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.pvr"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78.png"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.png"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.pvr"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.png"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.png"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.pvr"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84.png"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85.png"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86.pvr"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.png"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.png"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89.pvr"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.png"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91.png"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.pvr"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93.png"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94.png"
+                },
+                {
+                    "k": "95",
+                    "v": "Files\/File95.pvr"
+                },
+                {
+                    "k": "96",
+                    "v": "Files\/File96.png"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.png"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.pvr"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99.png"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.png"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.pvr"
+                },
+                {
+                    "k": "102",
+                    "v": "Files\/File102.png"
+                },
+                {
+                    "k": "103",
+                    "v": "Files\/File103.png"
+                },
+                {
+                    "k": "104",
+                    "v": "Files\/File104.pvr"
+                },
+                {
+                    "k": "105",
+                    "v": "Files\/File105.png"
+                },
+                {
+                    "k": "106",
+                    "v": "Files\/File106.png"
+                },
+                {
+                    "k": "107",
+                    "v": "Files\/File107.pvr"
+                },
+                {
+                    "k": "108",
+                    "v": "Files\/File108.png"
+                },
+                {
+                    "k": "109",
+                    "v": "Files\/File109.png"
+                },
+                {
+                    "k": "110",
+                    "v": "Files\/File110.pvr"
+                },
+                {
+                    "k": "111",
+                    "v": "Files\/File111.png"
+                },
+                {
+                    "k": "112",
+                    "v": "Files\/File112.png"
+                },
+                {
+                    "k": "113",
+                    "v": "Files\/File113.pvr"
+                },
+                {
+                    "k": "114",
+                    "v": "Files\/File114.png"
+                },
+                {
+                    "k": "115",
+                    "v": "Files\/File115.png"
+                },
+                {
+                    "k": "116",
+                    "v": "Files\/File116.pvr"
+                },
+                {
+                    "k": "117",
+                    "v": "Files\/File117.pvr"
+                },
+                {
+                    "k": "118",
+                    "v": "Files\/File118.pvr"
+                },
+                {
+                    "k": "119",
+                    "v": "Files\/File119.pvr"
+                },
+                {
+                    "k": "120",
+                    "v": "Files\/File120.pvr"
+                },
+                {
+                    "k": "121",
+                    "v": "Files\/File121.pvr"
+                },
+                {
+                    "k": "122",
+                    "v": "Files\/File122.pvr"
+                },
+                {
+                    "k": "123",
+                    "v": "Files\/File123.pvr"
+                },
+                {
+                    "k": "124",
+                    "v": "Files\/File124.pvr"
+                },
+                {
+                    "k": "125",
+                    "v": "Files\/File125.pvr"
+                },
+                {
+                    "k": "126",
+                    "v": "Files\/File126.pvr"
+                },
+                {
+                    "k": "127",
+                    "v": "Files\/File127.pvr"
+                },
+                {
+                    "k": "128",
+                    "v": "Files\/File128.pvr"
+                },
+                {
+                    "k": "129",
+                    "v": "Files\/File129.pvr"
+                },
+                {
+                    "k": "130",
+                    "v": "Files\/File130.pvr"
+                },
+                {
+                    "k": "131",
+                    "v": "Files\/File131.pvr"
+                },
+                {
+                    "k": "132",
+                    "v": "Files\/File132.pvr"
+                },
+                {
+                    "k": "133",
+                    "v": "Files\/File133.pvr"
+                },
+                {
+                    "k": "134",
+                    "v": "Files\/File134.pvr"
+                },
+                {
+                    "k": "135",
+                    "v": "Files\/File135.pvr"
+                },
+                {
+                    "k": "136",
+                    "v": "Files\/File136.pvr"
+                },
+                {
+                    "k": "137",
+                    "v": "Files\/File137.pvr"
+                },
+                {
+                    "k": "138",
+                    "v": "Files\/File138.pvr"
+                },
+                {
+                    "k": "139",
+                    "v": "Files\/File139.pvr"
+                },
+                {
+                    "k": "140",
+                    "v": "Files\/File140.pvr"
+                },
+                {
+                    "k": "141",
+                    "v": "Files\/File141.pvr"
+                },
+                {
+                    "k": "142",
+                    "v": "Files\/File142.pvr"
+                },
+                {
+                    "k": "143",
+                    "v": "Files\/File143.pvr"
+                },
+                {
+                    "k": "144",
+                    "v": "Files\/File144.pvr"
+                },
+                {
+                    "k": "145",
+                    "v": "Files\/File145.pvr"
+                },
+                {
+                    "k": "146",
+                    "v": "Files\/File146.pvr"
+                },
+                {
+                    "k": "147",
+                    "v": "Files\/File147.pvr"
+                },
+                {
+                    "k": "148",
+                    "v": "Files\/File148.pvr"
+                },
+                {
+                    "k": "149",
+                    "v": "Files\/File149.pvr"
+                },
+                {
+                    "k": "150",
+                    "v": "Files\/File150.pvr"
+                },
+                {
+                    "k": "151",
+                    "v": "Files\/File151.pvr"
+                },
+                {
+                    "k": "152",
+                    "v": "Files\/File152"
+                },
+                {
+                    "k": "153",
+                    "v": "Files\/File153.gif"
+                },
+                {
+                    "k": "154",
+                    "v": "Files\/File154"
+                },
+                {
+                    "k": "155",
+                    "v": "Files\/File155"
+                },
+                {
+                    "k": "156",
+                    "v": "Files\/File156.pvr"
+                },
+                {
+                    "k": "157",
+                    "v": "Files\/File157.png"
+                },
+                {
+                    "k": "158",
+                    "v": "Files\/File158.png"
+                },
+                {
+                    "k": "159",
+                    "v": "Files\/File159.pvr"
+                },
+                {
+                    "k": "160",
+                    "v": "Files\/File160"
+                },
+                {
+                    "k": "161",
+                    "v": "Files\/File161.gif"
+                },
+                {
+                    "k": "162",
+                    "v": "Files\/File162"
+                },
+                {
+                    "k": "163",
+                    "v": "Files\/File163"
+                },
+                {
+                    "k": "164",
+                    "v": "Files\/File164"
+                },
+                {
+                    "k": "165",
+                    "v": "Files\/File165.gif"
+                },
+                {
+                    "k": "166",
+                    "v": "Files\/File166.pvr"
+                },
+                {
+                    "k": "167",
+                    "v": "Files\/File167.png"
+                },
+                {
+                    "k": "168",
+                    "v": "Files\/File168.png"
+                },
+                {
+                    "k": "169",
+                    "v": "Files\/File169.pvr"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "2D Objects Template [REMOVE_ME]"
+                    },
+                    {
+                        "k": "969",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses"
+                    },
+                    {
+                        "k": "970",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/eagle_lens.png"
+                    },
+                    {
+                        "k": "971",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/eagle_lens_2.png"
+                    },
+                    {
+                        "k": "972",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/heart_lens.png"
+                    },
+                    {
+                        "k": "973",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/heart_sunglasses.png"
+                    },
+                    {
+                        "k": "974",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/kitty_lens.png"
+                    },
+                    {
+                        "k": "975",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/kitty_sunglasses.png"
+                    },
+                    {
+                        "k": "976",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/pink_lens.png"
+                    },
+                    {
+                        "k": "977",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/pink_sunglasses.png"
+                    },
+                    {
+                        "k": "978",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/round_lenses.png"
+                    },
+                    {
+                        "k": "979",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/round_sunglasses.png"
+                    },
+                    {
+                        "k": "980",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/star_lens.png"
+                    },
+                    {
+                        "k": "981",
+                        "v": "2D Objects Template [REMOVE_ME]\/Sunglasses\/star_sunglasses.png"
+                    },
+                    {
+                        "k": "982",
+                        "v": "2D Objects Template [REMOVE_ME]\/Nose"
+                    },
+                    {
+                        "k": "983",
+                        "v": "2D Objects Template [REMOVE_ME]\/Nose\/nose_clown.png"
+                    },
+                    {
+                        "k": "984",
+                        "v": "2D Objects Template [REMOVE_ME]\/Nose\/nose_deer.png"
+                    },
+                    {
+                        "k": "985",
+                        "v": "2D Objects Template [REMOVE_ME]\/Nose\/nose_dog.png"
+                    },
+                    {
+                        "k": "986",
+                        "v": "2D Objects Template [REMOVE_ME]\/Nose\/nose_heart.png"
+                    },
+                    {
+                        "k": "987",
+                        "v": "2D Objects Template [REMOVE_ME]\/Nose\/nose_pig.png"
+                    },
+                    {
+                        "k": "988",
+                        "v": "2D Objects Template [REMOVE_ME]\/Nose\/nose_simple.png"
+                    },
+                    {
+                        "k": "989",
+                        "v": "2D Objects Template [REMOVE_ME]\/Headband"
+                    },
+                    {
+                        "k": "990",
+                        "v": "2D Objects Template [REMOVE_ME]\/Headband\/headband_clown.png"
+                    },
+                    {
+                        "k": "991",
+                        "v": "2D Objects Template [REMOVE_ME]\/Headband\/headband_dots.png"
+                    },
+                    {
+                        "k": "992",
+                        "v": "2D Objects Template [REMOVE_ME]\/Headband\/headband_half.png"
+                    },
+                    {
+                        "k": "993",
+                        "v": "2D Objects Template [REMOVE_ME]\/Headband\/headband_kitty.png"
+                    },
+                    {
+                        "k": "994",
+                        "v": "2D Objects Template [REMOVE_ME]\/Headband\/headband_worm.png"
+                    },
+                    {
+                        "k": "995",
+                        "v": "2D Objects Template [REMOVE_ME]\/Extras"
+                    },
+                    {
+                        "k": "996",
+                        "v": "2D Objects Template [REMOVE_ME]\/Extras\/extra_antlers.png"
+                    },
+                    {
+                        "k": "997",
+                        "v": "2D Objects Template [REMOVE_ME]\/Extras\/extra_whiskers_colored.png"
+                    },
+                    {
+                        "k": "998",
+                        "v": "2D Objects Template [REMOVE_ME]\/Extras\/extra_whiskers_black.png"
+                    },
+                    {
+                        "k": "999",
+                        "v": "2D Objects Template [REMOVE_ME]\/Extras\/extra_whiskers_white.png"
+                    },
+                    {
+                        "k": "1000",
+                        "v": "2D Objects Template [REMOVE_ME]\/Ear"
+                    },
+                    {
+                        "k": "1001",
+                        "v": "2D Objects Template [REMOVE_ME]\/Ear\/ear_kitty.png"
+                    },
+                    {
+                        "k": "1002",
+                        "v": "2D Objects Template [REMOVE_ME]\/Ear\/ear_purple_long.png"
+                    },
+                    {
+                        "k": "1003",
+                        "v": "2D Objects Template [REMOVE_ME]\/Ear\/ear_wolf.png"
+                    },
+                    {
+                        "k": "1004",
+                        "v": "2D Objects Template [REMOVE_ME]\/Ear\/ear_fox.png"
+                    },
+                    {
+                        "k": "1005",
+                        "v": "2D Objects Template [REMOVE_ME]\/Ear\/ear_bear.png"
+                    },
+                    {
+                        "k": "1006",
+                        "v": "beret.png"
+                    },
+                    {
+                        "k": "1007",
+                        "v": "Face Paint Template [REMOVE_ME]"
+                    },
+                    {
+                        "k": "1008",
+                        "v": "Face Paint Template [REMOVE_ME]\/Bird"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "Face Paint Template [REMOVE_ME]\/Bird\/bird_lips_1.png"
+                    },
+                    {
+                        "k": "1010",
+                        "v": "Face Paint Template [REMOVE_ME]\/Bird\/bird_lips_2.png"
+                    },
+                    {
+                        "k": "1011",
+                        "v": "pita.png"
+                    },
+                    {
+                        "k": "1012",
+                        "v": "Party Celebrate Sticker by Originals.gif"
+                    },
+                    {
+                        "k": "1013",
+                        "v": "pancasilabornn.png"
+                    },
+                    {
+                        "k": "1014",
+                        "v": "Confetti Sparkles Sticker by America's Got Talent.gif"
+                    },
+                    {
+                        "k": "1015",
+                        "v": "Celebrating Real Estate Sticker by TW_MK.gif"
+                    },
+                    {
+                        "k": "1016",
+                        "v": "pancasila.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "970",
+                        "v": "69d88417aada0ae141195a3821d87bd2"
+                    },
+                    {
+                        "k": "971",
+                        "v": "048ca406f1d83e0a6023a38701476126"
+                    },
+                    {
+                        "k": "972",
+                        "v": "3cd3611585da76cff761c6c2355dfa73"
+                    },
+                    {
+                        "k": "973",
+                        "v": "fd2e687299636ff16f93236e8a41ea5a"
+                    },
+                    {
+                        "k": "974",
+                        "v": "11469be76bcaa839ae82b26320925caa"
+                    },
+                    {
+                        "k": "975",
+                        "v": "d780009c9fc53ffefa8590ca03b306c5"
+                    },
+                    {
+                        "k": "976",
+                        "v": "08649fdf92986a331d6c9d5a63ca9e6f"
+                    },
+                    {
+                        "k": "977",
+                        "v": "59b88d6c7c5af148db256b5673ada2ad"
+                    },
+                    {
+                        "k": "978",
+                        "v": "4c1c63c26de5b10166a6025fc047b579"
+                    },
+                    {
+                        "k": "979",
+                        "v": "41899a09c781319792af8d4393d38b9b"
+                    },
+                    {
+                        "k": "980",
+                        "v": "d6f7d413c131c2fd07cecfa7364fbb0e"
+                    },
+                    {
+                        "k": "981",
+                        "v": "fa58298396d57ab0866ac218d2640f02"
+                    },
+                    {
+                        "k": "983",
+                        "v": "208697e43bd4afdd20cb945f3553d996"
+                    },
+                    {
+                        "k": "984",
+                        "v": "9dc788ac89bafd2c22927a450336ca21"
+                    },
+                    {
+                        "k": "985",
+                        "v": "c6103110df464ff36e6cfddbba0c2f15"
+                    },
+                    {
+                        "k": "986",
+                        "v": "2adb7bc099b69a8d88b78e0845053b9d"
+                    },
+                    {
+                        "k": "987",
+                        "v": "c82a64836d401b06ae24ed0fda3964dd"
+                    },
+                    {
+                        "k": "988",
+                        "v": "c20d1b247e3af5fc38e30157698912d2"
+                    },
+                    {
+                        "k": "990",
+                        "v": "d5699697bcb7b32001f9c65c7a7f75f0"
+                    },
+                    {
+                        "k": "991",
+                        "v": "c246a6346accccfd55fc960df210bd4a"
+                    },
+                    {
+                        "k": "992",
+                        "v": "0d8eb94fc24173135813992e02b8b3ed"
+                    },
+                    {
+                        "k": "993",
+                        "v": "246299323ff3dc0fd4e179b6538f3d1e"
+                    },
+                    {
+                        "k": "994",
+                        "v": "53bc67c7aa9e1cf128d28367d3b2a6ef"
+                    },
+                    {
+                        "k": "996",
+                        "v": "5b5d19da9770ffb4da694d3c6fa7d171"
+                    },
+                    {
+                        "k": "997",
+                        "v": "c51f4ef5db325933d5c981b638bc5633"
+                    },
+                    {
+                        "k": "998",
+                        "v": "2b58d128442db7f9ccacea0aafda9aa2"
+                    },
+                    {
+                        "k": "999",
+                        "v": "3d3c6a7084e3ec701e6a0230ea9a6c3d"
+                    },
+                    {
+                        "k": "1001",
+                        "v": "d87281dddd8aa187edc5f081d958799e"
+                    },
+                    {
+                        "k": "1002",
+                        "v": "d53539b7c49e8e1a07c8db8b5d109b26"
+                    },
+                    {
+                        "k": "1003",
+                        "v": "931c0fa68e22e6e30837778edd1c65ec"
+                    },
+                    {
+                        "k": "1004",
+                        "v": "59e4265ac4cecff2cb9ac30c3a9df57e"
+                    },
+                    {
+                        "k": "1005",
+                        "v": "bfa201ee66a9fce54e9d35e2658e6c37"
+                    },
+                    {
+                        "k": "1006",
+                        "v": "45a1ebf00808ec837d91c7bf8ff78c78"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "7077c307c97eac06ac748600338d5484"
+                    },
+                    {
+                        "k": "1010",
+                        "v": "0381b263eef4ee605d3d3b8d78aed401"
+                    },
+                    {
+                        "k": "1011",
+                        "v": "7914b93fb3d377c7ccbf2e9c810fe7e5"
+                    },
+                    {
+                        "k": "1012",
+                        "v": "a55480937112308641882788d835ce09"
+                    },
+                    {
+                        "k": "1013",
+                        "v": "cf75b4cb08e860cbede008fa9b80a96e"
+                    },
+                    {
+                        "k": "1014",
+                        "v": "10eb79ca6281dc53f72a75f2a5fe79a0"
+                    },
+                    {
+                        "k": "1015",
+                        "v": "4312087955808d684754e2b5fe2e8e1a"
+                    },
+                    {
+                        "k": "1016",
+                        "v": "e83daf0f4fd77399d1bcfbd66efa6b63"
+                    },
+                    {
+                        "k": "26758",
+                        "v": "e83daf0f4fd77399d1bcfbd66efa6b63"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-06-01T10:29:46",
+                        "name": "Public",
+                        "hash": "841c12f0c297bb6ba0e4b3e418572609",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-05-31T04:45:39",
+                                "name": "2D Objects Template [REMOVE_ME]",
+                                "hash": "1d86b66c8a3cbf0ad6fde1e03b5fc8fc",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-05-31T04:45:39",
+                                        "name": "Ear",
+                                        "hash": "c04119ff91fb9fbb598289d5d2ba0a75",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "ear_bear.png",
+                                                "hash": "bfa201ee66a9fce54e9d35e2658e6c37",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "ear_fox.png",
+                                                "hash": "59e4265ac4cecff2cb9ac30c3a9df57e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "ear_kitty.png",
+                                                "hash": "d87281dddd8aa187edc5f081d958799e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "ear_purple_long.png",
+                                                "hash": "d53539b7c49e8e1a07c8db8b5d109b26",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "ear_wolf.png",
+                                                "hash": "931c0fa68e22e6e30837778edd1c65ec",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:52",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-05-31T04:45:39",
+                                        "name": "Extras",
+                                        "hash": "8364421a21a2aef7268cfd431889968d",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "extra_antlers.png",
+                                                "hash": "5b5d19da9770ffb4da694d3c6fa7d171",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "extra_whiskers_black.png",
+                                                "hash": "2b58d128442db7f9ccacea0aafda9aa2",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "extra_whiskers_colored.png",
+                                                "hash": "c51f4ef5db325933d5c981b638bc5633",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "extra_whiskers_white.png",
+                                                "hash": "3d3c6a7084e3ec701e6a0230ea9a6c3d",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:52",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-05-31T04:39:50",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-05-31T04:45:39",
+                                        "name": "Headband",
+                                        "hash": "03ca6210432b2a9f3ddb9fff7c1b501f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:52",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "headband_clown.png",
+                                                "hash": "d5699697bcb7b32001f9c65c7a7f75f0",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "headband_dots.png",
+                                                "hash": "c246a6346accccfd55fc960df210bd4a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "headband_half.png",
+                                                "hash": "0d8eb94fc24173135813992e02b8b3ed",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "headband_kitty.png",
+                                                "hash": "246299323ff3dc0fd4e179b6538f3d1e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "headband_worm.png",
+                                                "hash": "53bc67c7aa9e1cf128d28367d3b2a6ef",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-05-31T04:45:39",
+                                        "name": "Nose",
+                                        "hash": "7239d3be9836bd9fda2773d8086bac11",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:51",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "nose_clown.png",
+                                                "hash": "208697e43bd4afdd20cb945f3553d996",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "nose_deer.png",
+                                                "hash": "9dc788ac89bafd2c22927a450336ca21",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "nose_dog.png",
+                                                "hash": "c6103110df464ff36e6cfddbba0c2f15",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "nose_heart.png",
+                                                "hash": "2adb7bc099b69a8d88b78e0845053b9d",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "nose_pig.png",
+                                                "hash": "c82a64836d401b06ae24ed0fda3964dd",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "nose_simple.png",
+                                                "hash": "c20d1b247e3af5fc38e30157698912d2",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-05-31T04:45:39",
+                                        "name": "Sunglasses",
+                                        "hash": "81ef72f66f6078366f6413ac3b81febf",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "eagle_lens.png",
+                                                "hash": "69d88417aada0ae141195a3821d87bd2",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "eagle_lens_2.png",
+                                                "hash": "048ca406f1d83e0a6023a38701476126",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "heart_lens.png",
+                                                "hash": "3cd3611585da76cff761c6c2355dfa73",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "heart_sunglasses.png",
+                                                "hash": "fd2e687299636ff16f93236e8a41ea5a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "kitty_lens.png",
+                                                "hash": "11469be76bcaa839ae82b26320925caa",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "kitty_sunglasses.png",
+                                                "hash": "d780009c9fc53ffefa8590ca03b306c5",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "pink_lens.png",
+                                                "hash": "08649fdf92986a331d6c9d5a63ca9e6f",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "pink_sunglasses.png",
+                                                "hash": "59b88d6c7c5af148db256b5673ada2ad",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "round_lenses.png",
+                                                "hash": "4c1c63c26de5b10166a6025fc047b579",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "round_sunglasses.png",
+                                                "hash": "41899a09c781319792af8d4393d38b9b",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "star_lens.png",
+                                                "hash": "d6f7d413c131c2fd07cecfa7364fbb0e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:39:50",
+                                                "name": "star_sunglasses.png",
+                                                "hash": "fa58298396d57ab0866ac218d2640f02",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-05-31T04:39:50",
+                                "name": "beret.png",
+                                "hash": "45a1ebf00808ec837d91c7bf8ff78c78",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-05-31T13:36:54",
+                                "name": "Celebrating Real Estate Sticker by TW_MK.gif",
+                                "hash": "4312087955808d684754e2b5fe2e8e1a",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-05-31T13:35:16",
+                                "name": "Confetti Sparkles Sticker by America's Got Talent.gif",
+                                "hash": "10eb79ca6281dc53f72a75f2a5fe79a0",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-04-27T00:32:32",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-05-31T04:45:39",
+                                "name": "Face Paint Template [REMOVE_ME]",
+                                "hash": "2b2fb56bc9252adeb57e31d547ebedd7",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-05-31T04:45:39",
+                                        "name": "Bird",
+                                        "hash": "199befcb7a6e69af8cfe7f899f4884ec",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:40:02",
+                                                "name": "bird_lips_1.png",
+                                                "hash": "7077c307c97eac06ac748600338d5484",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:40:02",
+                                                "name": "bird_lips_2.png",
+                                                "hash": "0381b263eef4ee605d3d3b8d78aed401",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-05-31T04:40:02",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-05-31T04:40:02",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-04-27T00:32:32",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-06-01T09:35:25",
+                                "name": "pancasila.png",
+                                "hash": "e83daf0f4fd77399d1bcfbd66efa6b63",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-05-31T12:49:19",
+                                "name": "pancasilabornn.png",
+                                "hash": "cf75b4cb08e860cbede008fa9b80a96e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-05-31T12:39:42",
+                                "name": "Party Celebrate Sticker by Originals.gif",
+                                "hash": "a55480937112308641882788d835ce09",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-05-31T04:40:02",
+                                "name": "pita.png",
+                                "hash": "7914b93fb3d377c7ccbf2e9c810fe7e5",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": {
+                            "RenderTargetRole": "1"
+                        }
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "2D Objects Template [REMOVE_ME]",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "968",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Sunglasses",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "969",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "eagle_lens",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "13",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943190854643:51486",
+                                        "fileId": "8",
+                                        "originalId": "9",
+                                        "publicId": "970",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "69d88417aada0ae141195a3821d87bd2"
+                                        }
+                                    },
+                                    {
+                                        "name": "eagle_lens_2",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "14",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943190925969:51504",
+                                        "fileId": "11",
+                                        "originalId": "12",
+                                        "publicId": "971",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "048ca406f1d83e0a6023a38701476126"
+                                        }
+                                    },
+                                    {
+                                        "name": "heart_lens",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "15",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943190984517:51516",
+                                        "fileId": "14",
+                                        "originalId": "15",
+                                        "publicId": "972",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "3cd3611585da76cff761c6c2355dfa73"
+                                        }
+                                    },
+                                    {
+                                        "name": "heart_sunglasses",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "16",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943191043725:51532",
+                                        "fileId": "17",
+                                        "originalId": "18",
+                                        "publicId": "973",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "fd2e687299636ff16f93236e8a41ea5a"
+                                        }
+                                    },
+                                    {
+                                        "name": "kitty_lens",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "17",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943191099568:51548",
+                                        "fileId": "20",
+                                        "originalId": "21",
+                                        "publicId": "974",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "11469be76bcaa839ae82b26320925caa"
+                                        }
+                                    },
+                                    {
+                                        "name": "kitty_sunglasses",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "18",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943191165459:51568",
+                                        "fileId": "23",
+                                        "originalId": "24",
+                                        "publicId": "975",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "d780009c9fc53ffefa8590ca03b306c5"
+                                        }
+                                    },
+                                    {
+                                        "name": "pink_lens",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "19",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943191243954:51580",
+                                        "fileId": "26",
+                                        "originalId": "27",
+                                        "publicId": "976",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "08649fdf92986a331d6c9d5a63ca9e6f"
+                                        }
+                                    },
+                                    {
+                                        "name": "pink_sunglasses",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "20",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943191329046:51600",
+                                        "fileId": "29",
+                                        "originalId": "30",
+                                        "publicId": "977",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "59b88d6c7c5af148db256b5673ada2ad"
+                                        }
+                                    },
+                                    {
+                                        "name": "round_lenses",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "21",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943191413300:51612",
+                                        "fileId": "32",
+                                        "originalId": "33",
+                                        "publicId": "978",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "4c1c63c26de5b10166a6025fc047b579"
+                                        }
+                                    },
+                                    {
+                                        "name": "round_sunglasses",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "22",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943191490513:51632",
+                                        "fileId": "35",
+                                        "originalId": "36",
+                                        "publicId": "979",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "41899a09c781319792af8d4393d38b9b"
+                                        }
+                                    },
+                                    {
+                                        "name": "star_lens",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "23",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943191562541:51644",
+                                        "fileId": "38",
+                                        "originalId": "39",
+                                        "publicId": "980",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "d6f7d413c131c2fd07cecfa7364fbb0e"
+                                        }
+                                    },
+                                    {
+                                        "name": "star_sunglasses",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "24",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943191635575:51660",
+                                        "fileId": "41",
+                                        "originalId": "42",
+                                        "publicId": "981",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "fa58298396d57ab0866ac218d2640f02"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Nose",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "982",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "nose_clown",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "25",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943191708276:51676",
+                                        "fileId": "44",
+                                        "originalId": "45",
+                                        "publicId": "983",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "208697e43bd4afdd20cb945f3553d996"
+                                        }
+                                    },
+                                    {
+                                        "name": "nose_deer",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "26",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943191785816:51696",
+                                        "fileId": "47",
+                                        "originalId": "48",
+                                        "publicId": "984",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "9dc788ac89bafd2c22927a450336ca21"
+                                        }
+                                    },
+                                    {
+                                        "name": "nose_dog",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "27",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943191864195:51712",
+                                        "fileId": "50",
+                                        "originalId": "51",
+                                        "publicId": "985",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "c6103110df464ff36e6cfddbba0c2f15"
+                                        }
+                                    },
+                                    {
+                                        "name": "nose_heart",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "28",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943191936109:51728",
+                                        "fileId": "53",
+                                        "originalId": "54",
+                                        "publicId": "986",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "2adb7bc099b69a8d88b78e0845053b9d"
+                                        }
+                                    },
+                                    {
+                                        "name": "nose_pig",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "29",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943191999648:51744",
+                                        "fileId": "56",
+                                        "originalId": "57",
+                                        "publicId": "987",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "c82a64836d401b06ae24ed0fda3964dd"
+                                        }
+                                    },
+                                    {
+                                        "name": "nose_simple",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "30",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943192063745:51760",
+                                        "fileId": "59",
+                                        "originalId": "60",
+                                        "publicId": "988",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "c20d1b247e3af5fc38e30157698912d2"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Headband",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "989",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "headband_clown",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "31",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943192135028:51776",
+                                        "fileId": "62",
+                                        "originalId": "63",
+                                        "publicId": "990",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "d5699697bcb7b32001f9c65c7a7f75f0"
+                                        }
+                                    },
+                                    {
+                                        "name": "headband_dots",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "32",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943192206187:51792",
+                                        "fileId": "65",
+                                        "originalId": "66",
+                                        "publicId": "991",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "c246a6346accccfd55fc960df210bd4a"
+                                        }
+                                    },
+                                    {
+                                        "name": "headband_half",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "33",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943192273124:51808",
+                                        "fileId": "68",
+                                        "originalId": "69",
+                                        "publicId": "992",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "0d8eb94fc24173135813992e02b8b3ed"
+                                        }
+                                    },
+                                    {
+                                        "name": "headband_kitty",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "34",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943192337612:51824",
+                                        "fileId": "71",
+                                        "originalId": "72",
+                                        "publicId": "993",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "246299323ff3dc0fd4e179b6538f3d1e"
+                                        }
+                                    },
+                                    {
+                                        "name": "headband_worm",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "35",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943192403066:51840",
+                                        "fileId": "74",
+                                        "originalId": "75",
+                                        "publicId": "994",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "53bc67c7aa9e1cf128d28367d3b2a6ef"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Extras",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "995",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "extra_antlers",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "36",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943192469251:51856",
+                                        "fileId": "77",
+                                        "originalId": "78",
+                                        "publicId": "996",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "5b5d19da9770ffb4da694d3c6fa7d171"
+                                        }
+                                    },
+                                    {
+                                        "name": "extra_whiskers_colored",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "37",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943192543828:51876",
+                                        "fileId": "80",
+                                        "originalId": "81",
+                                        "publicId": "997",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "c51f4ef5db325933d5c981b638bc5633"
+                                        }
+                                    },
+                                    {
+                                        "name": "extra_whiskers_black",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "38",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943192612368:51892",
+                                        "fileId": "83",
+                                        "originalId": "84",
+                                        "publicId": "998",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "2b58d128442db7f9ccacea0aafda9aa2"
+                                        }
+                                    },
+                                    {
+                                        "name": "extra_whiskers_white",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "39",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943192683533:51908",
+                                        "fileId": "86",
+                                        "originalId": "87",
+                                        "publicId": "999",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "3d3c6a7084e3ec701e6a0230ea9a6c3d"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ear",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1000",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "ear_kitty",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "40",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943192761411:51928",
+                                        "fileId": "89",
+                                        "originalId": "90",
+                                        "publicId": "1001",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "d87281dddd8aa187edc5f081d958799e"
+                                        }
+                                    },
+                                    {
+                                        "name": "ear_purple_long",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "41",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943192835978:51948",
+                                        "fileId": "92",
+                                        "originalId": "93",
+                                        "publicId": "1002",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "d53539b7c49e8e1a07c8db8b5d109b26"
+                                        }
+                                    },
+                                    {
+                                        "name": "ear_wolf",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "42",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943192905397:51964",
+                                        "fileId": "95",
+                                        "originalId": "96",
+                                        "publicId": "1003",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "931c0fa68e22e6e30837778edd1c65ec"
+                                        }
+                                    },
+                                    {
+                                        "name": "ear_fox",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "43",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943192976651:51980",
+                                        "fileId": "98",
+                                        "originalId": "99",
+                                        "publicId": "1004",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "59e4265ac4cecff2cb9ac30c3a9df57e"
+                                        }
+                                    },
+                                    {
+                                        "name": "ear_bear",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "44",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943193050852:51996",
+                                        "fileId": "101",
+                                        "originalId": "102",
+                                        "publicId": "1005",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9",
+                                            "originHash": "bfa201ee66a9fce54e9d35e2658e6c37"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "beret",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "45",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1653943193135620:52020",
+                        "fileId": "104",
+                        "originalId": "105",
+                        "publicId": "1006",
+                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                        "additional": {
+                            "originHash": "45a1ebf00808ec837d91c7bf8ff78c78",
+                            "subtype": "9"
+                        }
+                    },
+                    {
+                        "name": "Face Paint Template [REMOVE_ME]",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1007",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Bird",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1008",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "bird_lips_1",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "46",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943202862268:54744",
+                                        "fileId": "107",
+                                        "originalId": "108",
+                                        "publicId": "1009",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9"
+                                        }
+                                    },
+                                    {
+                                        "name": "bird_lips_2",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "47",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1653943202979926:54764",
+                                        "fileId": "110",
+                                        "originalId": "111",
+                                        "publicId": "1010",
+                                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "subtype": "9"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "pita",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "48",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1653943203095506:54780",
+                        "fileId": "113",
+                        "originalId": "114",
+                        "publicId": "1011",
+                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiopxtzyRmRHLNv\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                        "additional": {
+                            "originHash": "7914b93fb3d377c7ccbf2e9c810fe7e5",
+                            "subtype": "9"
+                        }
+                    },
+                    {
+                        "name": "Party Celebrate Sticker by Originals",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "49",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1653971982661723:30162",
+                        "fileId": "152",
+                        "originalId": "153",
+                        "publicId": "1012",
+                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiospDNPWZAgkkU\/animation.t3d",
+                        "additional": {
+                            "from_giphy": "true"
+                        }
+                    },
+                    {
+                        "name": "pancasilabornn",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "50",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1653972580412504:106718",
+                        "fileId": "156",
+                        "originalId": "157",
+                        "publicId": "1013",
+                        "source": "C:\/Users\/ASUS\/OneDrive\/Pictures\/pancasilabornn.png",
+                        "additional": {
+                            "originHash": "cf75b4cb08e860cbede008fa9b80a96e"
+                        }
+                    },
+                    {
+                        "name": "Confetti Sparkles Sticker by America's Got Talent",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "51",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1653975317339307:18824",
+                        "fileId": "160",
+                        "originalId": "161",
+                        "publicId": "1014",
+                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioGwCBDgTVzzDj\/animation.t3d",
+                        "additional": {
+                            "from_giphy": "true"
+                        }
+                    },
+                    {
+                        "name": "Celebrating Real Estate Sticker by TW_MK",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "52",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1653975416716929:40314",
+                        "fileId": "164",
+                        "originalId": "165",
+                        "publicId": "1015",
+                        "source": "C:\/Users\/ASUS\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioELmFlpmcnPKz\/converted_gif.webp",
+                        "additional": {
+                            "from_giphy": "true"
+                        }
+                    },
+                    {
+                        "name": "pancasila",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "53",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1654047353369891:13949",
+                        "fileId": "166",
+                        "originalId": "167",
+                        "publicId": "1016",
+                        "source": "C:\/Users\/Public\/Downloads\/pancasila.png",
+                        "additional": {
+                            "originHash": "e83daf0f4fd77399d1bcfbd66efa6b63"
+                        }
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1653975416789518:40483"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1653943190854643:51486",
+                    "v": {
+                        "infos": {
+                            "originalSize": "9593",
+                            "compressedSize": "4436",
+                            "originalRAM": "399600",
+                            "compressedRAM": "50760",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "10",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "69d88417aada0ae141195a3821d87bd2",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "117"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943190925969:51504",
+                    "v": {
+                        "infos": {
+                            "originalSize": "33702",
+                            "compressedSize": "17243",
+                            "originalRAM": "805688",
+                            "compressedRAM": "101888",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "13",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "048ca406f1d83e0a6023a38701476126",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "116"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943190984517:51516",
+                    "v": {
+                        "infos": {
+                            "originalSize": "11604",
+                            "compressedSize": "4986",
+                            "originalRAM": "429048",
+                            "compressedRAM": "54264",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "16",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "3cd3611585da76cff761c6c2355dfa73",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "118"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943191043725:51532",
+                    "v": {
+                        "infos": {
+                            "originalSize": "21644",
+                            "compressedSize": "11082",
+                            "originalRAM": "555264",
+                            "compressedRAM": "70272",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "19",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "fd2e687299636ff16f93236e8a41ea5a",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "119"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943191099568:51548",
+                    "v": {
+                        "infos": {
+                            "originalSize": "9547",
+                            "compressedSize": "4278",
+                            "originalRAM": "384560",
+                            "compressedRAM": "48768",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "22",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "11469be76bcaa839ae82b26320925caa",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "122"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943191165459:51568",
+                    "v": {
+                        "infos": {
+                            "originalSize": "34117",
+                            "compressedSize": "18566",
+                            "originalRAM": "814352",
+                            "compressedRAM": "102256",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "25",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "d780009c9fc53ffefa8590ca03b306c5",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "120"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943191243954:51580",
+                    "v": {
+                        "infos": {
+                            "originalSize": "9781",
+                            "compressedSize": "4733",
+                            "originalRAM": "476860",
+                            "compressedRAM": "60208",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "28",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "08649fdf92986a331d6c9d5a63ca9e6f",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "121"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943191329046:51600",
+                    "v": {
+                        "infos": {
+                            "originalSize": "21002",
+                            "compressedSize": "10945",
+                            "originalRAM": "509832",
+                            "compressedRAM": "64240",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "31",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "59b88d6c7c5af148db256b5673ada2ad",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "123"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943191413300:51612",
+                    "v": {
+                        "infos": {
+                            "originalSize": "10689",
+                            "compressedSize": "4992",
+                            "originalRAM": "465624",
+                            "compressedRAM": "58688",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "34",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "4c1c63c26de5b10166a6025fc047b579",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "125"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943191490513:51632",
+                    "v": {
+                        "infos": {
+                            "originalSize": "21011",
+                            "compressedSize": "12078",
+                            "originalRAM": "571568",
+                            "compressedRAM": "72280",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "37",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "41899a09c781319792af8d4393d38b9b",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "124"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943191562541:51644",
+                    "v": {
+                        "infos": {
+                            "originalSize": "10778",
+                            "compressedSize": "4839",
+                            "originalRAM": "469088",
+                            "compressedRAM": "59184",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "40",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "d6f7d413c131c2fd07cecfa7364fbb0e",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "126"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943191635575:51660",
+                    "v": {
+                        "infos": {
+                            "originalSize": "30563",
+                            "compressedSize": "15127",
+                            "originalRAM": "785920",
+                            "compressedRAM": "98560",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "43",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "fa58298396d57ab0866ac218d2640f02",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "127"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943191708276:51676",
+                    "v": {
+                        "infos": {
+                            "originalSize": "15500",
+                            "compressedSize": "6649",
+                            "originalRAM": "412672",
+                            "compressedRAM": "51584",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "46",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "208697e43bd4afdd20cb945f3553d996",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "128"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943191785816:51696",
+                    "v": {
+                        "infos": {
+                            "originalSize": "5218",
+                            "compressedSize": "1265",
+                            "originalRAM": "73980",
+                            "compressedRAM": "9520",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "49",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "9dc788ac89bafd2c22927a450336ca21",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "131"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943191864195:51712",
+                    "v": {
+                        "infos": {
+                            "originalSize": "5139",
+                            "compressedSize": "1225",
+                            "originalRAM": "51300",
+                            "compressedRAM": "6528",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "52",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "c6103110df464ff36e6cfddbba0c2f15",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "129"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943191936109:51728",
+                    "v": {
+                        "infos": {
+                            "originalSize": "6213",
+                            "compressedSize": "1857",
+                            "originalRAM": "55080",
+                            "compressedRAM": "7072",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "55",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "2adb7bc099b69a8d88b78e0845053b9d",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "130"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943191999648:51744",
+                    "v": {
+                        "infos": {
+                            "originalSize": "8651",
+                            "compressedSize": "3243",
+                            "originalRAM": "103488",
+                            "compressedRAM": "13104",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "58",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "c82a64836d401b06ae24ed0fda3964dd",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "133"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943192063745:51760",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4659",
+                            "compressedSize": "1016",
+                            "originalRAM": "55080",
+                            "compressedRAM": "7176",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "61",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "c20d1b247e3af5fc38e30157698912d2",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "132"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943192135028:51776",
+                    "v": {
+                        "infos": {
+                            "originalSize": "24059",
+                            "compressedSize": "12656",
+                            "originalRAM": "1006496",
+                            "compressedRAM": "126096",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "64",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "d5699697bcb7b32001f9c65c7a7f75f0",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "137"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943192206187:51792",
+                    "v": {
+                        "infos": {
+                            "originalSize": "32696",
+                            "compressedSize": "13322",
+                            "originalRAM": "450000",
+                            "compressedRAM": "56520",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "67",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "c246a6346accccfd55fc960df210bd4a",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "134"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943192273124:51808",
+                    "v": {
+                        "infos": {
+                            "originalSize": "17917",
+                            "compressedSize": "7768",
+                            "originalRAM": "360000",
+                            "compressedRAM": "45216",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "70",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "0d8eb94fc24173135813992e02b8b3ed",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "135"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943192337612:51824",
+                    "v": {
+                        "infos": {
+                            "originalSize": "14397",
+                            "compressedSize": "6924",
+                            "originalRAM": "541680",
+                            "compressedRAM": "68544",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "73",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "246299323ff3dc0fd4e179b6538f3d1e",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "136"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943192403066:51840",
+                    "v": {
+                        "infos": {
+                            "originalSize": "23196",
+                            "compressedSize": "9663",
+                            "originalRAM": "360000",
+                            "compressedRAM": "45216",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "76",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "53bc67c7aa9e1cf128d28367d3b2a6ef",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "138"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943192469251:51856",
+                    "v": {
+                        "infos": {
+                            "originalSize": "11105",
+                            "compressedSize": "4907",
+                            "originalRAM": "335172",
+                            "compressedRAM": "42240",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "79",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "5b5d19da9770ffb4da694d3c6fa7d171",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "139"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943192543828:51876",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4408",
+                            "compressedSize": "1746",
+                            "originalRAM": "37888",
+                            "compressedRAM": "4736",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "82",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "c51f4ef5db325933d5c981b638bc5633",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "140"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943192612368:51892",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1921",
+                            "compressedSize": "1366",
+                            "originalRAM": "37888",
+                            "compressedRAM": "4736",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "85",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "2b58d128442db7f9ccacea0aafda9aa2",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "143"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943192683533:51908",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1925",
+                            "compressedSize": "1365",
+                            "originalRAM": "37888",
+                            "compressedRAM": "4736",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "88",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "3d3c6a7084e3ec701e6a0230ea9a6c3d",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "145"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943192761411:51928",
+                    "v": {
+                        "infos": {
+                            "originalSize": "11570",
+                            "compressedSize": "4898",
+                            "originalRAM": "419796",
+                            "compressedRAM": "52800",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "91",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "d87281dddd8aa187edc5f081d958799e",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "141"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943192835978:51948",
+                    "v": {
+                        "infos": {
+                            "originalSize": "19468",
+                            "compressedSize": "7856",
+                            "originalRAM": "626552",
+                            "compressedRAM": "79424",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "94",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "d53539b7c49e8e1a07c8db8b5d109b26",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "144"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943192905397:51964",
+                    "v": {
+                        "infos": {
+                            "originalSize": "15937",
+                            "compressedSize": "6865",
+                            "originalRAM": "382632",
+                            "compressedRAM": "48600",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "97",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "931c0fa68e22e6e30837778edd1c65ec",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "142"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943192976651:51980",
+                    "v": {
+                        "infos": {
+                            "originalSize": "16315",
+                            "compressedSize": "5951",
+                            "originalRAM": "444444",
+                            "compressedRAM": "56304",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "100",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "59e4265ac4cecff2cb9ac30c3a9df57e",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "147"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943193050852:51996",
+                    "v": {
+                        "infos": {
+                            "originalSize": "5971",
+                            "compressedSize": "3899",
+                            "originalRAM": "174960",
+                            "compressedRAM": "21960",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "103",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "bfa201ee66a9fce54e9d35e2658e6c37",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "146"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943193135620:52020",
+                    "v": {
+                        "infos": {
+                            "originalSize": "166190",
+                            "compressedSize": "39695",
+                            "originalRAM": "1000000",
+                            "compressedRAM": "125000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "106",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "45a1ebf00808ec837d91c7bf8ff78c78",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "148"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943202862268:54744",
+                    "v": {
+                        "infos": {
+                            "originalSize": "11653",
+                            "compressedSize": "7873",
+                            "originalRAM": "269280",
+                            "compressedRAM": "33840",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "109",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "7077c307c97eac06ac748600338d5484",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "149"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943202979926:54764",
+                    "v": {
+                        "infos": {
+                            "originalSize": "8349",
+                            "compressedSize": "3681",
+                            "originalRAM": "269280",
+                            "compressedRAM": "33840",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "112",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "0381b263eef4ee605d3d3b8d78aed401",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "150"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653943203095506:54780",
+                    "v": {
+                        "infos": {
+                            "originalSize": "47715",
+                            "compressedSize": "37828",
+                            "originalRAM": "1458856",
+                            "compressedRAM": "183360",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "115",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "7914b93fb3d377c7ccbf2e9c810fe7e5",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "151"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653971982661723:30162",
+                    "v": {
+                        "infos": {
+                            "originalSize": "462733",
+                            "compressedSize": "133834",
+                            "originalRAM": "14680064",
+                            "compressedRAM": "14680064",
+                            "extension": "t3d",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "5"
+                            }
+                        },
+                        "uncompressed_file": "154",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "9b5e3a84a73492c8ef9601164a5f8d8b",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "155"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653972580412504:106718",
+                    "v": {
+                        "infos": {
+                            "originalSize": "99694",
+                            "compressedSize": "23284",
+                            "originalRAM": "424092",
+                            "compressedRAM": "54000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "158",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "cf75b4cb08e860cbede008fa9b80a96e",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "159"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1653975317339307:18824",
+                    "v": {
+                        "infos": {
+                            "originalSize": "421166",
+                            "compressedSize": "82945",
+                            "originalRAM": "16777216",
+                            "compressedRAM": "16777216",
+                            "extension": "t3d",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "5"
+                            }
+                        },
+                        "uncompressed_file": "162",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "cc1275d93b32c83bb02a0b1454bf8f49",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "163"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1654047353369891:13949",
+                    "v": {
+                        "infos": {
+                            "originalSize": "49975",
+                            "compressedSize": "12201",
+                            "originalRAM": "276000",
+                            "compressedRAM": "34800",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "168",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "e83daf0f4fd77399d1bcfbd66efa6b63",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "169"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.19.0"
+}
